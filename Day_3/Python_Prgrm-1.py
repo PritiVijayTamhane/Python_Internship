@@ -1,4 +1,4 @@
-'''___Program for Printing a msg on screen and puthon comments___'''
+'''___Program for Printing a msg on screen and python comments___'''
 print("Happy Thoughts ...!!")
 
 #Adding comments
